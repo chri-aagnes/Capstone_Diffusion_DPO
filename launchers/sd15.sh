@@ -17,4 +17,3 @@ accelerate launch train.py \
   --checkpointing_steps 500 \
   --beta_dpo 5000 \
    --output_dir="tmp-sd15"
-
